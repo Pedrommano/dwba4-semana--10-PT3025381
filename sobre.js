@@ -20,17 +20,17 @@ class Header extends React.Component {
                 <a href="./cursos/gestao_publica.html">Gestão Pública</a>
               </div>
             </div>
-            <li className="navbar__item"><a href="./pages/login.html" className="navbar__link">Entrar</a></li>
+            <li className="navbar__item"><a href="login.html" className="navbar__link">Entrar</a></li>
           </div>
           <div className="navbar---right">
-            <li className="navbar__item"><a href="./pages/Sobre.html" className="navbar__link">Sobre</a></li>
+            <li className="navbar__item"><a href="sobre.html" className="navbar__link">Sobre</a></li>
           </div>
         </nav>
         <section className="intro">
 
           <figure className="logo">
 
-            <img src="../assets/img/Logo.jpg" alt="Logo do IFSP" />
+            <img src="Logo.jpg" alt="Logo do IFSP" />
           </figure>
         </section>
       </header>
